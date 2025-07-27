@@ -1,47 +1,81 @@
-Hi there, I'm Vibhav! 👋
+# Hi there, I'm Vibhav! 👋
 
-🚀 Passionate About Security | DevOps | Pentest
+🚀 **Passionate About Security | DevOps | Pentesting**
 
-🛠️ Technologies & Tools
-Security: Wireshark, Splunk, Elastic, Firewalls, Proxies, IDS/IPS, Anti-virus, Anti-malware, Ransomware, Data Leak Protection
+Welcome to my GitHub! I'm a cybersecurity enthusiast with experience in DevOps, penetration testing, and system administration. I love solving real-world security challenges, building efficient systems, and contributing to the security community through technical write-ups.
 
-Operating Systems: Microsoft, Linux, Kali
+---
 
-Networking: Core networking principles
+## 🔧 Technologies & Tools
 
-💻 Programming Languages:
-Python
+- 💻 **Operating Systems**: Power user of Windows & Linux – skilled in navigation, file systems, and networking troubleshooting  
+- 🏢 **Active Directory**: Fundamental knowledge of AD environment and security  
+- 🧪 **Monitoring & Analysis**: Wireshark | Splunk | Elastic Stack  
+- 🔐 **Security**: Network analysis, log correlation, vulnerability management  
+- 🐍 **Programming**: Java & Python (proficient)  
+- 🗃️ **Databases**: MySQL | Linux system configuration  
+- 🛡️ **Cybersecurity Contributions**: Authoring write-ups and research for the security community  
 
-PowerShell
+---
 
-Bash
+## 💻 Programming Languages
 
-Java
+- **Python** 🐍  
+- **Java** ☕  
 
-☁️ Cloud & DevOps:
-AWS (Amazon Web Services)
+---
 
-Azure (Microsoft Azure)
+## 🎓 Education
 
-Google Cloud Platform (GCP)
+**Masters in Cybersecurity**  
+*University of North Texas*  
+📍 Denton, Texas, USA  
+📅 *Jan 2024 – Present*
 
-💼 Experience
-🔹 DevOps Support Engineer | Accenture (02/2022 – 06/2023), Hyderabad, India
-Collaborated with clients to enhance the quality and efficiency of CI/CD pipelines, ensuring seamless integration and deployment processes.
+**Bachelors in Computer Science Engineering**  
+*JB Institute of Engineering and Technology*  
+📍 Hyderabad, India  
 
-Implemented and managed Prometheus and Grafana, including setting up exporters for metrics and creating comprehensive monitoring dashboards.
+---
 
-Managed key rotations and performed timely upgrades for essential platform support tools, ensuring security and reliability.
+## 🏅 Certifications
 
-Contributed to platform maintenance and client support as part of a dedicated team, ensuring smooth operations and quick issue resolution.
+- ✅ **CompTIA Security+**
 
-📖 Currently Learning
-📚 Advanced Penetration Testing Techniques
+---
 
-🔒 Kubernetes Security
+## 🔒 Security & Networking
 
-☁️ Cloud Security Certifications
+- Network traffic inspection and analysis  
+- Log aggregation and event correlation  
+- Vulnerability scanning and basic exploit development  
+- Active contributor in write-ups and CTFs  
 
-📊 GitHub Stats
-⭐️ Let's build something amazing together! 🚀
-📬 Reach me at vibhav.chennamadhava@gmail.com
+---
+
+## ☁️ Cloud & DevOps
+
+- CI/CD pipeline support and maintenance  
+- Prometheus & Grafana (metrics collection, exporters, dashboarding)  
+- Secrets management and key rotations  
+- Troubleshooting platform issues and performing upgrades  
+
+---
+
+## 💼 Experience
+
+**DevOps Support Engineer**  
+*Accenture | Feb 2022 – Jun 2023 | Hyderabad, India*
+
+- Enhanced CI/CD pipeline efficiency for global clients  
+- Implemented Prometheus/Grafana with exporters and custom dashboards  
+- Managed secret key rotation and critical system upgrades  
+- Supported platform reliability with a proactive issue resolution approach  
+
+---
+
+## 📬 Get in Touch
+
+📧 **Email**: [vibhav.chennamadhava@gmail.com](mailto:vibhav.chennamadhava@gmail.com)
+
+Let's connect, collaborate, and secure the world together! 🔐🌐  
