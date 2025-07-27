@@ -8,20 +8,21 @@ Welcome to my GitHub! I'm a cybersecurity enthusiast with experience in DevOps, 
 
 ## 🔧 Technologies & Tools
 
-- 💻 **Operating Systems**: Power user of Windows & Linux – skilled in navigation, file systems, and networking troubleshooting  
-- 🏢 **Active Directory**: Fundamental knowledge of AD environment and security  
+- 💻 **Operating Systems**: Power user of Windows & Linux – skilled in navigation, file systems, and networking troubleshooting   
 - 🧪 **Monitoring & Analysis**: Wireshark | Splunk | Elastic Stack  
 - 🔐 **Security**: Network analysis, log correlation, vulnerability management  
 - 🐍 **Programming**: Java & Python (proficient)  
-- 🗃️ **Databases**: MySQL | Linux system configuration  
-- 🛡️ **Cybersecurity Contributions**: Authoring write-ups and research for the security community  
+- 🗃️ **Databases**: MySQL | Linux system configuration
+- 🏢 **Active Directory**: Fundamental knowledge of AD environment and security 
+- 🛡️ **Cybersecurity Contributions**: Authoring write-ups for the security community  
 
 ---
 
 ## 💻 Programming Languages
 
 - **Python** 🐍  
-- **Java** ☕  
+- **Java** ☕
+- **C++**
 
 ---
 
